@@ -1,0 +1,379 @@
+LOCUS       NM_000020               4177 bp    mRNA    linear   PRI 24-MAY-2021
+DEFINITION  Homo sapiens activin A receptor like type 1 (ACVRL1), transcript
+            variant 1, mRNA.
+ACCESSION   NM_000020
+VERSION     NM_000020.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4177)
+  AUTHORS   Verma A, Artham S and Somanath PR.
+  TITLE     ALK-1 to ALK-5 ratio dictated by the Akt1-beta-catenin pathway
+            regulates TGFbeta-induced endothelial-to-mesenchymal transition
+  JOURNAL   Gene 768, 145293 (2021)
+   PUBMED   33157202
+  REMARK    GeneRIF: ALK-1 to ALK-5 ratio dictated by the Akt1-beta-catenin
+            pathway regulates TGFbeta-induced endothelial-to-mesenchymal
+            transition.
+REFERENCE   2  (bases 1 to 4177)
+  AUTHORS   Kim AS, Henderson KJ, Pawar S, Kim MJ, Punjani S, Pollak JS, Fahey
+            JT, Garcia-Tsao G, Sugeng L and Young LH.
+  TITLE     Subaortic Membranes in Patients With Hereditary Hemorrhagic
+            Telangiectasia and Liver Vascular Malformations
+  JOURNAL   J Am Heart Assoc 9 (20), e016197 (2020)
+   PUBMED   33054561
+  REMARK    GeneRIF: Subaortic Membranes in Patients With Hereditary
+            Hemorrhagic Telangiectasia and Liver Vascular Malformations.
+REFERENCE   3  (bases 1 to 4177)
+  AUTHORS   Giraud S, Bardel C, Dupuis-Girod S, Carette MF, Gilbert-Dussardier
+            B, Riviere S, Saurin JC, Eyries M, Patri S, Decullier E, Calender A
+            and Lesca G.
+  TITLE     Sequence variations of ACVRL1 play a critical role in hepatic
+            vascular malformations in hereditary hemorrhagic telangiectasia
+  JOURNAL   Orphanet J Rare Dis 15 (1), 254 (2020)
+   PUBMED   32962750
+  REMARK    GeneRIF: Sequence variations of ACVRL1 play a critical role in
+            hepatic vascular malformations in hereditary hemorrhagic
+            telangiectasia.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 4177)
+  AUTHORS   Garzon-Martinez M, Perretta-Tejedor N, Garcia-Ortiz L, Gomez-Marcos
+            MA, Gonzalez-Sarmiento R, Lopez-Hernandez FJ and Martinez-Salgado
+            C.
+  TITLE     Association of Alk1 and Endoglin Polymorphisms with Cardiovascular
+            Damage
+  JOURNAL   Sci Rep 10 (1), 9383 (2020)
+   PUBMED   32523017
+  REMARK    GeneRIF: Association of Alk1 and Endoglin Polymorphisms with
+            Cardiovascular Damage.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 4177)
+  AUTHORS   Johnson DW, Berg JN, Baldwin MA, Gallione CJ, Marondel I, Yoon SJ,
+            Stenzel TT, Speer M, Pericak-Vance MA, Diamond A, Guttmacher AE,
+            Jackson CE, Attisano L, Kucherlapati R, Porteous ME and Marchuk DA.
+  TITLE     Mutations in the activin receptor-like kinase 1 gene in hereditary
+            haemorrhagic telangiectasia type 2
+  JOURNAL   Nat Genet 13 (2), 189-195 (1996)
+   PUBMED   8640225
+REFERENCE   6  (bases 1 to 4177)
+  AUTHORS   Johnson DW, Berg JN, Gallione CJ, McAllister KA, Warner JP,
+            Helmbold EA, Markel DS, Jackson CE, Porteous ME and Marchuk DA.
+  TITLE     A second locus for hereditary hemorrhagic telangiectasia maps to
+            chromosome 12
+  JOURNAL   Genome Res 5 (1), 21-28 (1995)
+   PUBMED   8717052
+REFERENCE   7  (bases 1 to 4177)
+  AUTHORS   Attisano L, Carcamo J, Ventura F, Weis FM, Massague J and Wrana JL.
+  TITLE     Identification of human activin and TGF beta type I receptors that
+            form heteromeric kinase complexes with type II receptors
+  JOURNAL   Cell 75 (4), 671-680 (1993)
+   PUBMED   8242742
+REFERENCE   8  (bases 1 to 4177)
+  AUTHORS   ten Dijke P, Ichijo H, Franzen P, Schulz P, Saras J, Toyoshima H,
+            Heldin CH and Miyazono K.
+  TITLE     Activin receptor-like kinases: a novel subclass of cell-surface
+            receptors with predicted serine/threonine kinase activity
+  JOURNAL   Oncogene 8 (10), 2879-2887 (1993)
+   PUBMED   8397373
+REFERENCE   9  (bases 1 to 4177)
+  AUTHORS   Austin,E.D., Phillips,J.A. III and Loyd,J.E.
+  TITLE     Heritable Pulmonary Arterial Hypertension Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mirzaa G
+            and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301658
+REFERENCE   10 (bases 1 to 4177)
+  AUTHORS   McDonald,J. and Pyeritz,R.E.
+  TITLE     Hereditary Hemorrhagic Telangiectasia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mirzaa G
+            and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301525
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from Z22533.1, DN999570.1 and
+            AC025259.49.
+            On Aug 31, 2019 this sequence version replaced NM_000020.2.
+            
+            Summary: This gene encodes a type I cell-surface receptor for the
+            TGF-beta superfamily of ligands. It shares with other type I
+            receptors a high degree of similarity in serine-threonine kinase
+            subdomains, a glycine- and serine-rich region (called the GS
+            domain) preceding the kinase domain, and a short C-terminal tail.
+            The encoded protein, sometimes termed ALK1, shares similar domain
+            structures with other closely related ALK or activin receptor-like
+            kinase proteins that form a subfamily of receptor serine/threonine
+            kinases. Mutations in this gene are associated with hemorrhagic
+            telangiectasia type 2, also known as Rendu-Osler-Weber syndrome 2.
+            [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript. Variants 1 and 2 encode the same isoform.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: Z22533.1, ERR279862.3895.1
+                                           [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000388922.9/ ENSP00000373574.4
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-77                Z22533.1           87-163
+            78-595              DN999570.1         172-689
+            596-711             Z22533.1           681-796
+            712-722             AC025259.49        169951-169961       c
+            723-822             AC025259.49        169648-169747       c
+            823-969             AC025259.49        169136-169282       c
+            970-1245            AC025259.49        168221-168496       c
+            1246-1443           AC025259.49        167488-167685       c
+            1444-1574           AC025259.49        164606-164736       c
+            1575-4177           AC025259.49        160360-162962       c
+FEATURES             Location/Qualifiers
+     source          1..4177
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q13.13"
+     gene            1..4177
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="activin A receptor like type 1"
+                     /db_xref="GeneID:94"
+                     /db_xref="HGNC:HGNC:175"
+                     /db_xref="MIM:601284"
+     exon            1..192
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            193..258
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             198..1709
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /EC_number="2.7.11.30"
+                     /note="serine/threonine-protein kinase receptor R3;
+                     activin A receptor type IL; TGF-B superfamily receptor
+                     type I; activin A receptor, type II-like kinase 1; activin
+                     A receptor type II-like 1"
+                     /codon_start=1
+                     /product="serine/threonine-protein kinase receptor R3
+                     precursor"
+                     /protein_id="NP_000011.2"
+                     /db_xref="CCDS:CCDS31804.1"
+                     /db_xref="GeneID:94"
+                     /db_xref="HGNC:HGNC:175"
+                     /db_xref="MIM:601284"
+                     /translation="MTLGSPRKGLLMLLMALVTQGDPVKPSRGPLVTCTCESPHCKGP
+                     TCRGAWCTVVLVREEGRHPQEHRGCGNLHRELCRGRPTEFVNHYCCDSHLCNHNVSLV
+                     LEATQPPSEQPGTDGQLALILGPVLALLALVALGVLGLWHVRRRQEKQRGLHSELGES
+                     SLILKASEQGDSMLGDLLDSDCTTGSGSGLPFLVQRTVARQVALVECVGKGRYGEVWR
+                     GLWHGESVAVKIFSSRDEQSWFRETEIYNTVLLRHDNILGFIASDMTSRNSSTQLWLI
+                     THYHEHGSLYDFLQRQTLEPHLALRLAVSAACGLAHLHVEIFGTQGKPAIAHRDFKSR
+                     NVLVKSNLQCCIADLGLAVMHSQGSDYLDIGNNPRVGTKRYMAPEVLDEQIRTDCFES
+                     YKWTDIWAFGLVLWEIARRTIVNGIVEDYRPPFYDVVPNDPSFEDMKKVVCVDQQTPT
+                     IPNRLAADPVLSGLAQMMRECWYPNPSARLTALRIKKTLQKISNSPEKPKVIQ"
+     sig_peptide     198..260
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     261..1706
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /product="Serine/threonine-protein kinase receptor R3.
+                     /id=PRO_0000024420"
+                     /note="propagated from UniProtKB/Swiss-Prot (P37023.2)"
+     misc_feature    414..425
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="propagated from UniProtKB/Swiss-Prot (P37023.2);
+                     Region: Mediates specificity for BMP ligand"
+     misc_feature    489..491
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P37023.2); glycosylation site"
+     misc_feature    552..620
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="propagated from UniProtKB/Swiss-Prot (P37023.2);
+                     transmembrane region"
+     misc_feature    660..662
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61288; propagated from
+                     UniProtKB/Swiss-Prot (P37023.2); phosphorylation site"
+     misc_feature    675..677
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61288; propagated from
+                     UniProtKB/Swiss-Prot (P37023.2); phosphorylation site"
+     misc_feature    678..680
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61288; propagated from
+                     UniProtKB/Swiss-Prot (P37023.2); phosphorylation site"
+     exon            259..510
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            511..722
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            723..822
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            823..969
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            970..1245
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1246..1443
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1444..1574
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1575..4177
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1864..1869
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="hexamer: AATACA"
+     polyA_site      1886
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+     regulatory      4155..4160
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="hexamer: AATAAA"
+     polyA_site      4177
+                     /gene="ACVRL1"
+                     /gene_synonym="ACVRLK1; ALK-1; ALK1; HHT; HHT2; ORW2;
+                     SKR3; TSR-I"
+                     /note="major polyA site"
+ORIGIN      
+        1 cccagtcccg ggaggctgcc gcgccagctg cgccgagcga gcccctcccc ggctccagcc
+       61 cggtccgggg ccgcgcccgg accccagccc gccgtccagc gctggcggtg caactgcggc
+      121 cgcgcggtgg aggggaggtg gccccggtcc gccgaaggct agcgccccgc cacccgcaga
+      181 gcgggcccag agggaccatg accttgggct cccccaggaa aggccttctg atgctgctga
+      241 tggccttggt gacccaggga gaccctgtga agccgtctcg gggcccgctg gtgacctgca
+      301 cgtgtgagag cccacattgc aaggggccta cctgccgggg ggcctggtgc acagtagtgc
+      361 tggtgcggga ggaggggagg cacccccagg aacatcgggg ctgcgggaac ttgcacaggg
+      421 agctctgcag ggggcgcccc accgagttcg tcaaccacta ctgctgcgac agccacctct
+      481 gcaaccacaa cgtgtccctg gtgctggagg ccacccaacc tccttcggag cagccgggaa
+      541 cagatggcca gctggccctg atcctgggcc ccgtgctggc cttgctggcc ctggtggccc
+      601 tgggtgtcct gggcctgtgg catgtccgac ggaggcagga gaagcagcgt ggcctgcaca
+      661 gcgagctggg agagtccagt ctcatcctga aagcatctga gcagggcgac agcatgttgg
+      721 gggacctcct ggacagtgac tgcaccacag ggagtggctc agggctcccc ttcctggtgc
+      781 agaggacagt ggcacggcag gttgccttgg tggagtgtgt gggaaaaggc cgctatggcg
+      841 aagtgtggcg gggcttgtgg cacggtgaga gtgtggccgt caagatcttc tcctcgaggg
+      901 atgaacagtc ctggttccgg gagactgaga tctataacac agtgttgctc agacacgaca
+      961 acatcctagg cttcatcgcc tcagacatga cctcccgcaa ctcgagcacg cagctgtggc
+     1021 tcatcacgca ctaccacgag cacggctccc tctacgactt tctgcagaga cagacgctgg
+     1081 agccccatct ggctctgagg ctagctgtgt ccgcggcatg cggcctggcg cacctgcacg
+     1141 tggagatctt cggtacacag ggcaaaccag ccattgccca ccgcgacttc aagagccgca
+     1201 atgtgctggt caagagcaac ctgcagtgtt gcatcgccga cctgggcctg gctgtgatgc
+     1261 actcacaggg cagcgattac ctggacatcg gcaacaaccc gagagtgggc accaagcggt
+     1321 acatggcacc cgaggtgctg gacgagcaga tccgcacgga ctgctttgag tcctacaagt
+     1381 ggactgacat ctgggccttt ggcctggtgc tgtgggagat tgcccgccgg accatcgtga
+     1441 atggcatcgt ggaggactat agaccaccct tctatgatgt ggtgcccaat gaccccagct
+     1501 ttgaggacat gaagaaggtg gtgtgtgtgg atcagcagac ccccaccatc cctaaccggc
+     1561 tggctgcaga cccggtcctc tcaggcctag ctcagatgat gcgggagtgc tggtacccaa
+     1621 acccctctgc ccgactcacc gcgctgcgga tcaagaagac actacaaaaa attagcaaca
+     1681 gtccagagaa gcctaaagtg attcaatagc ccaggagcac ctgattcctt tctgcctgca
+     1741 gggggctggg ggggtggggg gcagtggatg gtgccctatc tgggtagagg tagtgtgagt
+     1801 gtggtgtgtg ctggggatgg gcagctgcgc ctgcctgctc ggcccccagc ccacccagcc
+     1861 aaaaatacag ctgggctgaa acctgatccc ctgctgtctg gcctgctcaa agcggcaggc
+     1921 tccctgacgc ctggctctct ccccacccct atggccagca tggtgcaccc cctaccactc
+     1981 ccgggacagg atgcaaaaga ggctccagag tcagagtgcc aagccaggga atcccagtcc
+     2041 cagactcaga gcccgggcct gcactttgcc ccctgccctt gatcaacccc actgccccac
+     2101 cagagctgcc agggtggcac agggccctgt ccagcccctg gcacacactt ccctgccagg
+     2161 cctcagcctc tagcataagc tccagagagc cagggcccat cagtttctct ctgtggattt
+     2221 gtatctcagc tccatgatgc cttgggcttt ctgtctcctc aacaagagtg cagcttgctg
+     2281 aatgtcagct gcctgagaga gctggggcct gacttactag ggcattaaat cctaagaggt
+     2341 cctactgagg tgtggcagga tcacaggcca gtggaaaaag ggcaggtcag atgggcaagg
+     2401 cccaggactt tcagattaac tgagaggata tcgaggccaa gcatggcagg gggaaggtca
+     2461 gtgggtgtca agagacccag gtctgacccc ggatgtttgc tccatgtgac aaaagcaggc
+     2521 ctgtctcagg accttttctt ttcttttttc cttctttttt tttttgacac ggagtttcgc
+     2581 tcttgttgtc caggctagag tgcaatggca tgatcccagc tcaccgcaac gtctacctcc
+     2641 caggttcaaa tcattctctt gcctcagact cccgagtagc tgggattaca ggcacatgcc
+     2701 accatgcctg gctaattttg tatatttagt agaaacaggg tttcaccatg ctggccatgc
+     2761 tggtctcgaa ctcctgacct caggtgttcc acctacctca gcctcccaaa gtgctggggt
+     2821 tacaggtgtg agccatcgcg cctggccagg acctttgttt cttatctaca tattggaaga
+     2881 tttggtcctg atgtcctttg aggcttcttt agctctagtt ctctgacact tcagcctata
+     2941 tcacagctaa cttcttcagt ctcatctatt ccttatgctc cagcccctgg caatttgcct
+     3001 caagatgggg gtttgaaaat aactttacct gactcaagga gtgtctggag cacctcctag
+     3061 tctaagtctg caagctccag ttcttgccta aaaccatgcc agtggccacc cttgggctca
+     3121 gacagctctg ggccttttga ccacaagcca gcccctcgcc ctctctgtgg catagtcttc
+     3181 tctgccccag gactgcaggg cggcttcctc caaggcttcc aaggctcaaa agaaatttgg
+     3241 ctccatccaa gaaggctcca gctcccctac tggcccctgg ctcaggccca cacccctggc
+     3301 caggcccaga gagtgtgtct caggagaatt caatggctct agagagacac acagaaagtt
+     3361 tggcatttgg aaatttcaag gatgtatgta tgctcacgta tggagcaggt tgtcctggtc
+     3421 cctgggtgca gggaagtggg ctgcagggaa gtggattgga ggggagcttg aggaatataa
+     3481 ggagcggggg tggagactca ggctatggac aaggacagcc ccaaggttgg gaagacctgg
+     3541 ccttagtcgt cctcagccta ggggcagggc agtgaagaaa gctctccccg ctcctgctgt
+     3601 aatgacccag agtagcctcc ccaggccggc atcttatgtg tgtcttccac catcctcatg
+     3661 gtggcacttt tctaggcctg tctcccagca ttgtgcaagg ctcggaagag aaccaggaag
+     3721 tgaaactggg tgaaaacaga aagctcaatg gatgggctag gttcccagat cattagggca
+     3781 gagtttgcac gtcctctggt cactggaatc cacccagccc acgaatcatc tccctcttga
+     3841 aggattttat ttctactggg ttttggaaca aactcctgct gagaccccac agccagaaac
+     3901 tgaaagcagc agctccccaa agcctggaaa atccctaaga gaaggcctgg ggcaggaagt
+     3961 ggagtgacag gggacaggta gagagaaggg ggcccaatgg ccagggagtg aaggaggtgg
+     4021 cgttgctgag agcagtctgc acatgcttct gtctgagtgc aggaaggtgt tccagggtcg
+     4081 aaattacact tctcgtacct ggagacgctg tttgtgggag cactgggctc atgcctggca
+     4141 cacaataggt ctgcaataaa ccatggttaa atcctga
+//
+
